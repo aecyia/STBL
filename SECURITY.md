@@ -1,12 +1,25 @@
 # Security Policy
 
-## Versions
+## Versions & Roadmap
 
-|                           Version                           |   Note    |   Status    |
-| :---------------------------------------------------------: | :-------: | :---------: |
-| [0.0.0](https://github.com/aecyia/STBL/releases/tag/v0.0.0) | Originals |  COMPLETE   |
-| [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1) |    ---    | IN PROGRESS |
-| [0.0.2](https://github.com/aecyia/STBL/releases/tag/v0.0.2) |    ---    |     ---     |
+|                            Version                            |       Title        |   Status    |
+| :-----------------------------------------------------------: | :----------------: | :---------: |
+|  [0.0.0](https://github.com/aecyia/STBL/releases/tag/v0.0.0)  |     Originals      |  COMPLETE   |
+|  [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1)  |  No Double Spaces  | IN PROGRESS |
+|  [0.0.2](https://github.com/aecyia/STBL/releases/tag/v0.0.2)  |      New Line      |   PLANNED   |
+|  [0.0.3](https://github.com/aecyia/STBL/releases/tag/v0.0.3)  | Simpler Statistics |   PLANNED   |
+|  [0.0.4](https://github.com/aecyia/STBL/releases/tag/v0.0.4)  | Skill Certificates |   PLANNED   |
+|  [0.0.5](https://github.com/aecyia/STBL/releases/tag/v0.0.5)  |   Would You Like   |   PLANNED   |
+|  [0.0.6](https://github.com/aecyia/STBL/releases/tag/v0.0.6)  |        ---         |   PLANNED   |
+|  [0.0.7](https://github.com/aecyia/STBL/releases/tag/v0.0.7)  |        ---         |   PLANNED   |
+|  [0.0.8](https://github.com/aecyia/STBL/releases/tag/v0.0.8)  |        ---         |   PLANNED   |
+|  [0.0.9](https://github.com/aecyia/STBL/releases/tag/v0.0.9)  |        ---         |   PLANNED   |
+| [0.0.10](https://github.com/aecyia/STBL/releases/tag/v0.0.10) |   Opportunities    |   PLANNED   |
+
+## Note
+
++ Grammar, spelling, punctuation, word flow, etc. will be changed for all versions
++ For example, if a string is misspelled or improper, the entire line will be fixed, regardless of the version change focus / title
 
 ## Planned Changes
 
@@ -15,7 +28,6 @@
 + Skill Journal Fix
 	+ Simplified cleaner Statistics
 + Various Miscellaneous Fixes
-	+ No more Double Spaces
 	+ Grammar
 	+ Punctuation
 	+ Spelling
@@ -25,6 +37,8 @@
 	+ Wording / Phrasing / Easier Flow
 		+ "Would you like" -- not "Do you want/wish"
 		+ Skill Certificates
++ Rename
+	+ Collection Journal Stuff
 + \n\n -- \\n
 + …
 + –-
