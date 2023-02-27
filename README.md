@@ -22,8 +22,11 @@
 
 ## Useful Links
 
-+ See [Commits](https://github.com/aecyia/STBL/commits/main) for the full list of changes
-+ Want a specific string changed in The Sims 3? Report issues [here](https://github.com/aecyia/STBL/issues)
++ List of Changes
+	+ [Commits](https://github.com/aecyia/STBL/commits/main)
+	+ [Security.md](https://github.com/aecyia/STBL/blob/main/SECURITY.md)
++ Want a specific string changed in The Sims 3?
+	+ Submit one [here](https://github.com/aecyia/STBL/issues)
 
 ## Installation
 
