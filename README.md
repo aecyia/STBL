@@ -18,7 +18,8 @@
   + The entire .STBL file is included per package, even if most strings are unchanged
 	  + Easier to edit all at once
 + `TXT`
-	+ The .TXT files show the .STBL files in a readable format
+	+ The .TXT files show the .STBL files in a readable + searchable format
+	+ Copied & Pasted directly from S3PE
 
 ## Useful Links
 
