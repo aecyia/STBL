@@ -1,10 +1,11 @@
 # STBL
 
 + STBL Changes for The Sims 3
+	+ Basically changing strings and in-game text
 + English Only
 + Steam Version Only
-+ Expansion Packs -- 1 to 11
-+ Stuff Packs -- All Except 6 (Sweet Treats)
++ Expansion Packs -- All 11
++ Stuff Packs -- All Except SP6 (Sweet Treats)
 + Original File Locations
 	+ `Steam\steamapps\common\The Sims 3\`
 	+ Base Game -- `GameData\Shared\Packages\DeltaBuild0.package`
@@ -26,6 +27,9 @@
 
 ## Installation
 
-1. Download the `STBL` folder
-2. Move to `Documents\Electronic Arts\The Sims 3\Mods`
-3. Can be placed in `Packages` OR `Overrides`
+1. Go to [Releases](https://github.com/aecyia/STBL/releases)
+2. Download the `STBL.zip`
+3. Extract
+4. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
+5. Can be placed in `Packages` OR `Overrides`
+6. Play + Enjoy
