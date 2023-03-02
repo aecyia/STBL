@@ -2,13 +2,13 @@
 
 ## Versions & Roadmap
 
-|                            Version                            |                       Title / Focus                |   Status    |
+|                            Version                            |                   Title / Focus                    |   Status    |
 | :-----------------------------------------------------------: | :------------------------------------------------: | :---------: |
 |  [0.0.0](https://github.com/aecyia/STBL/releases/tag/v0.0.0)  |                     Originals                      |  COMPLETE   |
 |  [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1)  |                  No Double Spaces                  |  COMPLETE   |
 |  [0.0.2](https://github.com/aecyia/STBL/releases/tag/v0.0.2)  |                      New Line                      | IN PROGRESS |
 |  [0.0.3](https://github.com/aecyia/STBL/releases/tag/v0.0.3)  |                 Simpler Statistics                 |   PLANNED   |
-|  [0.0.4](https://github.com/aecyia/STBL/releases/tag/v0.0.4)  |                 Skill Certificates                 |   PLANNED   |
+|  [0.0.4](https://github.com/aecyia/STBL/releases/tag/v0.0.4)  |                        ---                         |   PLANNED   |
 |  [0.0.5](https://github.com/aecyia/STBL/releases/tag/v0.0.5)  |                   Would You Like                   |   PLANNED   |
 |  [0.0.6](https://github.com/aecyia/STBL/releases/tag/v0.0.6)  | Lot Names (Remove the 3bedroom 2.5 bathroom stuff) |   PLANNED   |
 |  [0.0.7](https://github.com/aecyia/STBL/releases/tag/v0.0.7)  |                        ---                         |   PLANNED   |
