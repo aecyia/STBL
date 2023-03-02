@@ -1,7 +1,7 @@
 # STBL
 
 + STBL Changes for The Sims 3
-	+ Basically changing strings and in-game text
++ Basically changing strings and in-game text
 + BASED ON MY PREFERENCES
 + English Only
 + Steam Version Only
@@ -22,20 +22,15 @@
 	+ The .TXT files show the .STBL files in a readable + searchable format
 	+ Copied & Pasted directly from S3PE
 
-## Useful Links
+## Use STBL
 
-+ List of Changes
+1. Download the [STBL.zip](https://github.com/aecyia/STBL/blob/main/STBL.zip)
+2. Extract the .ZIP file
+3. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
+4. Can be placed in `Packages` OR `Overrides`
+5. Play + Enjoy
+6. List of Changes
 	+ [Commits](https://github.com/aecyia/STBL/commits/main)
 	+ [Security.md](https://github.com/aecyia/STBL/blob/main/SECURITY.md)
-+ Want a specific string changed in The Sims 3?
+7. Want a specific string changed in The Sims 3?
 	+ Submit one [here](https://github.com/aecyia/STBL/issues)
-
-## Installation
-
-1. Go to [Releases](https://github.com/aecyia/STBL/releases)
-2. Latest Release
-3. Download the `STBL.zip`
-4. Extract
-5. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
-6. Can be placed in `Packages` OR `Overrides`
-7. Play + Enjoy
