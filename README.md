@@ -29,8 +29,6 @@
 3. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
 4. Can be placed in `Packages` OR `Overrides`
 5. Play + Enjoy
-6. List of Changes
-	+ [Commits](https://github.com/aecyia/STBL/commits/main)
-	+ [Security.md](https://github.com/aecyia/STBL/blob/main/SECURITY.md)
+6. See [Commits](https://github.com/aecyia/STBL/commits/main) and [Security.md](https://github.com/aecyia/STBL/blob/main/SECURITY.md) List of Changes
 7. Want a specific string changed in The Sims 3?
 	+ Submit one [here](https://github.com/aecyia/STBL/issues)
