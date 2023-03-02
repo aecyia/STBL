@@ -2,7 +2,7 @@
 
 ## Versions & Roadmap
 
-|                            Version                            |                       Title                        |   Status    |
+|                            Version                            |                       Title / Focus                |   Status    |
 | :-----------------------------------------------------------: | :------------------------------------------------: | :---------: |
 |  [0.0.0](https://github.com/aecyia/STBL/releases/tag/v0.0.0)  |                     Originals                      |  COMPLETE   |
 |  [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1)  |                  No Double Spaces                  |  COMPLETE   |
@@ -39,10 +39,8 @@
 		+ Skill Certificates
 + Rename
 	+ Collection Journal Stuff
-+ \n\n -- \\n
 + …
 + –-
 + DO NOT
 + “”
 + &
-
