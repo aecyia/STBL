@@ -5,8 +5,8 @@
 |                            Version                            |                       Title                        |   Status    |
 | :-----------------------------------------------------------: | :------------------------------------------------: | :---------: |
 |  [0.0.0](https://github.com/aecyia/STBL/releases/tag/v0.0.0)  |                     Originals                      |  COMPLETE   |
-|  [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1)  |                  No Double Spaces                  | IN PROGRESS |
-|  [0.0.2](https://github.com/aecyia/STBL/releases/tag/v0.0.2)  |                      New Line                      |   PLANNED   |
+|  [0.0.1](https://github.com/aecyia/STBL/releases/tag/v0.0.1)  |                  No Double Spaces                  |  COMPLETE   |
+|  [0.0.2](https://github.com/aecyia/STBL/releases/tag/v0.0.2)  |                      New Line                      | IN PROGRESS |
 |  [0.0.3](https://github.com/aecyia/STBL/releases/tag/v0.0.3)  |                 Simpler Statistics                 |   PLANNED   |
 |  [0.0.4](https://github.com/aecyia/STBL/releases/tag/v0.0.4)  |                 Skill Certificates                 |   PLANNED   |
 |  [0.0.5](https://github.com/aecyia/STBL/releases/tag/v0.0.5)  |                   Would You Like                   |   PLANNED   |
