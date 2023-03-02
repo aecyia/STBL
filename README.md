@@ -2,6 +2,7 @@
 
 + STBL Changes for The Sims 3
 	+ Basically changing strings and in-game text
++ BASED ON MY PREFERENCES
 + English Only
 + Steam Version Only
 + Expansion Packs -- All 11
@@ -32,8 +33,9 @@
 ## Installation
 
 1. Go to [Releases](https://github.com/aecyia/STBL/releases)
-2. Download the `STBL.zip`
-3. Extract
-4. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
-5. Can be placed in `Packages` OR `Overrides`
-6. Play + Enjoy
+2. Latest Release
+3. Download the `STBL.zip`
+4. Extract
+5. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
+6. Can be placed in `Packages` OR `Overrides`
+7. Play + Enjoy
