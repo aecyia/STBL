@@ -26,7 +26,7 @@
 
 1. Download the [STBL.zip](https://github.com/VMPYRC/STBL/blob/main/STBL.zip)
 2. Extract the .ZIP file
-3. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
+3. Move the folder to `Documents\Electronic Arts\The Sims 3\Mods`
 4. Can be placed in `Packages` OR `Overrides`
 5. Play + Enjoy
 6. See [Commits](https://github.com/VMPYRC/STBL/commits/main) and [Security.md](https://github.com/VMPYRC/STBL/blob/main/SECURITY.md) for lists of changes
