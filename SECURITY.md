@@ -19,7 +19,7 @@
 ## Note
 
 + Grammar, spelling, punctuation, word flow, etc. will be changed for all versions
-+ For example, if a string is misspelled or improper, the entire line will be fixed, regardless of the version change focus / title
++ For example, if a string is improper, the entire line will be fixed, regardless of the version change focus / title
 
 ## Planned Changes
 
