@@ -8,11 +8,11 @@
 |  [0.0.1](https://github.com/VMPYRC/STBL/releases/tag/v0.0.1)  |                  No Double Spaces                  |  COMPLETE   |
 |  [0.0.2](https://github.com/VMPYRC/STBL/releases/tag/v0.0.2)  |           Reformatted Skill Certificates           |  COMPLETE   |
 |  [0.0.3](https://github.com/VMPYRC/STBL/releases/tag/v0.0.3)  |                   Slash N Spaces                   |  COMPLETE   |
-|  [0.0.4](https://github.com/VMPYRC/STBL/releases/tag/v0.0.4)  |                     Spelling 1                     | IN PROGRESS |
-|  [0.0.5](https://github.com/VMPYRC/STBL/releases/tag/v0.0.5)  |                 Simpler Statistics                 |   PLANNED   |
+|  [0.0.4](https://github.com/VMPYRC/STBL/releases/tag/v0.0.4)  |                     Spelling 1                     |  COMPLETE   |
+|  [0.0.5](https://github.com/VMPYRC/STBL/releases/tag/v0.0.5)  |                 Simpler Statistics                 | IN PROGRESS |
 |  [0.0.6](https://github.com/VMPYRC/STBL/releases/tag/v0.0.6)  |                   Would You Like                   |   PLANNED   |
 |  [0.0.7](https://github.com/VMPYRC/STBL/releases/tag/v0.0.7)  | Lot Names (Remove the 3bedroom 2.5 bathroom stuff) |   PLANNED   |
-|  [0.0.8](https://github.com/VMPYRC/STBL/releases/tag/v0.0.8)  |                        ---                         |   PLANNED   |
+|  [0.0.8](https://github.com/VMPYRC/STBL/releases/tag/v0.0.8)  |                     Spelling 2                     |   PLANNED   |
 |  [0.0.9](https://github.com/VMPYRC/STBL/releases/tag/v0.0.9)  |                        ---                         |   PLANNED   |
 | [0.0.10](https://github.com/VMPYRC/STBL/releases/tag/v0.0.10) |                   Opportunities                    |   PLANNED   |
 
@@ -24,7 +24,7 @@
 ## Planned Changes
 
 + Opportunities
-	+ Added GUID below Opportunity Descriptions
+	+ Add GUID below Opportunity Descriptions
 + …
 + –-
 + DO NOT
