@@ -24,10 +24,10 @@
 
 ## Use STBL
 
-1. Download the [STBL.zip](https://github.com/aecyia/STBL/blob/main/STBL.zip)
+1. Download the [STBL.zip](https://github.com/VMPYRC/STBL/blob/main/STBL.zip)
 2. Extract the .ZIP file
 3. Move folder to `Documents\Electronic Arts\The Sims 3\Mods`
 4. Can be placed in `Packages` OR `Overrides`
 5. Play + Enjoy
-6. See [Commits](https://github.com/aecyia/STBL/commits/main) and [Security.md](https://github.com/aecyia/STBL/blob/main/SECURITY.md) for lists of changes
-7. Want a specific string changed in The Sims 3? Submit one [here](https://github.com/aecyia/STBL/issues)
+6. See [Commits](https://github.com/VMPYRC/STBL/commits/main) and [Security.md](https://github.com/VMPYRC/STBL/blob/main/SECURITY.md) for lists of changes
+7. Want a specific string changed in The Sims 3? Submit one [here](https://github.com/VMPYRC/STBL/issues)
